@@ -1,0 +1,21 @@
+# Welcome to the https://www.bhwlm.top !
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /links/
+Allow: /posts/
+Allow: /tags/
+Allow: /talk/
+Crawl-delay: 5
+Disallow: /css/
+Disallow: /img/
+Disallow: /lib/
+Disallow: /js/
+Disallow: /xml/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Sitemap: https://www.bhwlm.top/sitemap.xml
+Sitemap: https://www.bhwlm.top/baidusitemap.xml
